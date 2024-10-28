@@ -1,0 +1,12 @@
+Flask
+Flask-PyMongo
+Flet
+SpeechRecognition
+PyDub
+NLTK
+SpaCy
+transformers
+PyMongo
+pydub
+python-dotenv
+requests

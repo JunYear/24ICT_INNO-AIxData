@@ -1,0 +1,12 @@
+# 가상 환경
+ict_venv/
+__pycache__/
+*.pyc
+.env
+
+# 음성 데이터
+data/
+*.wav
+
+# Secret key
+_secret/
